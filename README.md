@@ -1,4 +1,4 @@
-# Uncertainty Estimation on Point Cloud Semantic Segmentation && PCQA
+# Uncertainty Estimation on Point Cloud Semantic Segmentation（PCSS） && Point Cloud Quality Assessment（PCQA）
 
 ## PCSS_Uncertainty Papers
 1. [Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/9560972)
