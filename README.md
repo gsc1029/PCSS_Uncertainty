@@ -1,8 +1,8 @@
 # Uncertainty Estimation on Point Cloud Semantic Segmentation && PCQA
 
 ## PCSS_Uncertainty Papers
-1.[Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/9560972)
-2.[Neighborhood Spatial Aggregation MC Dropout for Efficient Uncertainty-aware Semantic Segmentation in Point Clouds](https://arxiv.org/abs/2201.07676)
+1. [Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/9560972)
+2. [Neighborhood Spatial Aggregation MC Dropout for Efficient Uncertainty-aware Semantic Segmentation in Point Clouds](https://arxiv.org/abs/2201.07676)
 
 ## PCQA databases 
 
