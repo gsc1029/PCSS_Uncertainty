@@ -3,7 +3,7 @@
 ## PCSS_Uncertainty Papers
 1. [Neighborhood Spatial Aggregation based Efficient Uncertainty Estimation for Point Cloud Semantic Segmentation](https://ieeexplore.ieee.org/document/9560972)
 2. [Neighborhood Spatial Aggregation MC Dropout for Efficient Uncertainty-aware Semantic Segmentation in Point Clouds](https://arxiv.org/abs/2201.07676)
-3. [Uncertainty Estimation in Deep Neural Networks for Point Cloud Segmentation in Factory Planning](https://arxiv.org/abs/2012.07038)
+3. [Uncertainty Estimation in Deep Neural Networks for Point Cloud Segmentation in Factory Planning](https://www.mdpi.com/2673-3951/2/1/1)
 
 ## PCQA databases
 
